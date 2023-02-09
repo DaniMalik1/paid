@@ -1,6 +1,6 @@
 # paid
 
-rm -rm paid
+rm -rf paid
 
 pkg install git
 
